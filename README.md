@@ -1,4 +1,4 @@
-# [Social-context-gamma-dataset]
+# social-context-gamma-dataset
 
 ## Project Goal
 This study investigates relations between performance on tasks and mental health. It involves questionnaires, computer tasks, and engaging in other tasks that are similar to things you do every day.
@@ -16,17 +16,13 @@ To be determined.
 This `main` branch contains completed releases for this project. For all work-in-progress, please switch over to the `dev` branches.
 
 
-
 ## Contributors
 | Role | Name |
 | ---  | ---  |
-| Principal Investigator | George Buzzell |
-| Study Lead | Arina Polyanskaya |
-| Study Lead | Emily Machado |
+| Supervision | George Buzzell |
+| Project Administration | Arina Polyanskaya, Emily Machado |
 
 Learn more about us [here](https://www.ndclab.com/people).
 
 ## Contributing
 If you are interested in contributing, please read our [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-:point_right: Keep the "Contributing" text above as the default NDCLab "blurb" to help visitors navigate the repo. But delete this note before publishing the readme file.
