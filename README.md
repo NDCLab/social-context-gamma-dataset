@@ -1,33 +1,28 @@
-# [project name]
+# social-context-gamma-dataset
 
 ## Project Goal
-Replace this text with a pithy description of the goal of the data collection project.
+This study investigates relations between performance on tasks and mental health. It involves questionnaires, computer tasks, and engaging in other tasks that are similar to things you do every day.
 
 
 ## Background & Design
-Replace this text with a slightly longer (but still only max 250 words) description of the project background and its design. 
+Broadly, this study aims to clarify relations between performance on tasks and mental health. It involves completing questionnaires, performing computer tasks, and engaging in other tasks that are similar to things you do every day, during which audio/video may be recorded. You may also be invited to (optionally) participate in additional follow-up studies for credit. The information gained from this study may enhance the scientific understanding of cognition and mental health. This study involves understanding of Multi-EF task development in investigating the possible influnces of faces on computer task performances. 
 
 
 ## Roadmap
-:point_right: Details of each data release should be documented in this readme. 
+To be determined. 
 
 
 ## Work in Development
 This `main` branch contains completed releases for this project. For all work-in-progress, please switch over to the `dev` branches.
 
-:point_right: Keep the "Work in Development" text above as the default NDCLab "blurb" to help visitors navigate the repo. But delete this note before publishing the readme file.
-
 
 ## Contributors
 | Role | Name |
 | ---  | ---  |
-| add role | insert team member(s) |
-| add role | insert team member(s) |
-| add role | insert team member(s) |
+| Supervision | George Buzzell |
+| Project Administration | Arina Polyanskaya, Emily Machado |
 
 Learn more about us [here](https://www.ndclab.com/people).
 
 ## Contributing
 If you are interested in contributing, please read our [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-:point_right: Keep the "Contributing" text above as the default NDCLab "blurb" to help visitors navigate the repo. But delete this note before publishing the readme file.
